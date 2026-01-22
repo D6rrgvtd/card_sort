@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\",
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gameplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|solutionrelative:card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gameplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|solutionrelative:card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gply_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|solutionrelative:card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gply_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\vec_out.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|solutionrelative:card_sort_org_\u5185\u7530\u6DBC\u4ECB\\vec_out.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\constrctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\constrctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|solutionrelative:card_sort_org_\u5185\u7530\u6DBC\u4ECB\\constrctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gameplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|solutionrelative:card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gameplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\vec_out.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|solutionrelative:card_sort_org_\u5185\u7530\u6DBC\u4ECB\\vec_out.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|solutionrelative:card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gply_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|solutionrelative:card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gply_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E603DE9E-4A27-4D90-906A-DD8E2326883F}|card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB.vcxproj|solutionrelative:card_sort_org_\u5185\u7530\u6DBC\u4ECB\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "gameplay.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gameplay.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gameplay.cpp",
               "RelativeDocumentMoniker": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gameplay.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gameplay.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gameplay.cpp",
               "RelativeToolTip": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gameplay.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -51,37 +51,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "card_sort.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort.h",
               "RelativeDocumentMoniker": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort.h",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort.h",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort.h",
               "RelativeToolTip": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-01-21T00:51:10.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "gply_sub.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gply_sub.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gply_sub.cpp",
               "RelativeDocumentMoniker": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gply_sub.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gply_sub.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gply_sub.cpp",
               "RelativeToolTip": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\gply_sub.cpp",
-              "ViewState": "AgIAADcAAAAAAAAAAAAkwDsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAMwGgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-21T01:13:03.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "constrctor.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\constrctor.cpp",
+              "RelativeDocumentMoniker": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\constrctor.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\constrctor.cpp",
+              "RelativeToolTip": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\constrctor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-21T00:49:51.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "vec_out.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\vec_out.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\vec_out.cpp",
               "RelativeDocumentMoniker": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\vec_out.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\vec_out.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\vec_out.cpp",
               "RelativeToolTip": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\vec_out.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -90,28 +103,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "constrctor.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\constrctor.cpp",
-              "RelativeDocumentMoniker": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\constrctor.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\constrctor.cpp",
-              "RelativeToolTip": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\constrctor.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-21T00:49:51.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\main.cpp",
               "RelativeDocumentMoniker": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\main.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\121\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\main.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\122\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\card_sort_org_\u5185\u7530\u6DBC\u4ECB\\main.cpp",
               "RelativeToolTip": "card_sort_org_\u5185\u7530\u6DBC\u4ECB\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-21T01:48:45.873Z"
+              "WhenOpened": "2026-01-21T01:48:45.873Z",
+              "EditorCaption": ""
             }
           ]
         }

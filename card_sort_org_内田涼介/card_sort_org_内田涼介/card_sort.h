@@ -14,6 +14,8 @@ private:
 	vector<int> your_card03;
 	vector<int> your_card04;
 
+	int timecount;
+
 	vector<int> trash_card;
 
 	vector<int> sorted_card01;
